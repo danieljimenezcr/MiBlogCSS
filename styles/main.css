@@ -220,7 +220,7 @@ footer {
     padding-bottom: 20px;
 }
 
-.blogpost-main-container section h1 {
+.blogpost-main-container article h1 {
     font-size: 35px;
 }
 
@@ -251,3 +251,4 @@ footer {
     width: 100px;
     margin-right: 20px;
 }
+
